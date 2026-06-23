@@ -1,0 +1,65 @@
+                                                                Wu Qiming
+                                                                Independent Researcher
+                                                                wuqm2545@gmail.com
+                                                                May 2026
+
+
+SUBJECT: Request for arXiv endorsement (quant-ph)
+         "Topological Origin of Quantum Bell Correlations"
+
+
+Dear Prof. [Name],
+
+I am an independent researcher writing to request your endorsement
+for an arXiv submission to the quant-ph archive. As I have not
+previously published in this archive, an endorsement from an
+established author is required.
+
+The manuscript, titled "Topological Origin of Quantum Bell
+Correlations: From 720° Spinor Knots to SU(2) Noncommutativity",
+presents a derivation of the Tsirelson bound S = 2√2 from classical
+field topology. The argument proceeds in five steps:
+
+  1. A background-free nonlinear field equation, derived from three
+     postulates, supports topological solitons with internal
+     directional structure.
+
+  2. The solitons have rotational zero modes, parametrized by an
+     SU(2) collective coordinate.
+
+  3. Quantization of the collective coordinate produces a Hamiltonian
+     whose eigenstates are SU(2) irreducible representations - this
+     is the standard Skyrme-Adkins-Nappi-Witten construction.
+
+  4. The measurement operators are SU(2) generators, which
+     necessarily fail to commute.
+
+  5. The Finkelstein-Rubinstein constraint forces solitons of odd
+     topological charge to be 720° spinors; the noncommutative
+     SU(2) algebra acting on the singlet state yields CHSH S = 2√2.
+
+The originality of the work lies not in inventing new mechanisms,
+but in the synthesis: the same machinery that gives Skyrmions
+their spin-1/2 also explains the Bell inequality bound.
+
+The paper makes a testable prediction distinguishing it from
+standard quantum mechanics: a nonzero cross-pair correlation
+between two independent entangled photon pairs sharing the same
+physical environment.
+
+I have attached the manuscript (PDF and LaTeX source) for your
+consideration. The endorsement instructions from arXiv can be
+found at:
+
+  https://arxiv.org/auth/need-endorsement
+
+My arXiv endorsement code (if needed) is: [to be inserted].
+
+I would be very grateful for your consideration. Please let me
+know if you have any questions or comments about the manuscript.
+
+Sincerely,
+
+Wu Qiming
+Independent Researcher
+wuqm2545@gmail.com
