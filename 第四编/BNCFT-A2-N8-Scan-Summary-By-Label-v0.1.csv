@@ -1,0 +1,5 @@
+label,n,eta_range,rho_range,delta_range,C_avg_mean,xi4_mean_mean,D_PR_mean,marginal_mean
+dangerous_pseudo_success,207,0.0-0.9,0.0-0.9,0.2-0.4,0.1717,0.4825,4.6004,0.0025
+fragile,108,0.0-1.0,0.0-1.0,0.0-0.5,0.1953,0.4733,4.7391,0.0133
+pathological,240,0.4-1.0,0.3-1.0,0.0-0.5,0.2204,0.4723,4.8762,0.0063
+success,171,0.0-0.9,0.0-0.9,0.0-0.5,0.1713,0.4822,4.5981,0.0013
